@@ -1,2 +1,2 @@
 "testing the git" 
-"i am determined" 
+"i was determined" 
